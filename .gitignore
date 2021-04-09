@@ -9,7 +9,9 @@
 /coverage
 
 # production
-# /build # commented out so build can be pushed to github. Maybe this has lots of overhead but I just need the site to deploy right now.
+# commented out so build can be pushed to github. Maybe this has lots of overhead but I just need the site to deploy right now.
+# JK! The site works without build being pushed to github, so i'll leave it ignored for now and push the updated .gitignore file
+/build 
 
 # misc
 .DS_Store
@@ -35,7 +37,9 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-# build/ # commented out so build can be pushed to github. Maybe this has lots of overhead but I just need the site to deploy right now.
+# commented out so build can be pushed to github. Maybe this has lots of overhead but I just need the site to deploy right now.
+# JK! The site works without build being pushed to github, so i'll leave it ignored for now and push the updated .gitignore file
+build/ 
 develop-eggs/
 dist/
 downloads/
