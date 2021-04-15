@@ -1,0 +1,181 @@
+{
+    "main": {
+      "name":"Keegan Elliott",
+      "occupation":"Software Engineer",
+      "description":"I'm currently graduating from the University of Michigan with a B.S. in Computer Science and a B.S. in Biopsychology, looking for a full-time gig in back end software development",
+      "image":"profilepic.jpg",
+      "bio":"With a continuing passion for the arts and life sciences, computer science was a welcome addition in my formal education as the perfect blend between creativity and logical systems. Throughout university I have had development experience across the full stack, but after working on projects focusing on data structure design, algorithm analysis, and operating systems, I’ve found that I really enjoy project design and back end development.",
+      "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "kraell@umich.edu",
+      "phone": "269.223.9722",
+      "address":{
+        "street":"[Street]",
+        "city":"Ann Arbor",
+        "state":"Michigan",
+        "country":"U.S.",
+        "zip": "[ZIP Code]"
+      },
+      "website": "https://kraell.github.io/",
+      "resumedownload":"https://drive.google.com/uc?export=pdf&id=1Ev-cDbvBqESwypsGwVAIPDNpJRxU_6af",
+      "social":[
+        {
+          "name":"facebook",
+          "url":"https://www.facebook.com/kraell",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/keeganelliott/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/kraell",
+          "className":"fa fa-github"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"Here are some of the technical skills I've developed.",
+      "education":[
+        {
+          "school":"University of Michigan",
+          "degree0":"B.S. Computer Science",
+          "degree1":"B.S. Biopsychology, Cognition, and Neuroscience",
+          "graduated":"May 2021",
+          "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc.",
+          "awards":[
+            {
+              "name":"University Honors"
+            }
+          ],
+          "courses":[
+            {
+              "name":"Operating Systems (EECS 482)"
+            },
+            {
+              "name":"Human-Centered Software Development (EECS 497)"
+            },
+            {
+              "name":"Computer Architecture (EECS 370)"
+            },
+            {
+              "name":"Data Structures & Algorithms (EECS 281)"
+            },
+            {
+              "name":"Web Systems (EECS 482)"
+            },
+            {
+              "name":"Computer Security (EECS 388)"
+            },
+            {
+              "name":"Foundations of Computer Theory (EECS 376)"
+            }
+          ]
+        }
+      ],
+      "work":[
+        {
+          "company":"Computer Aided Engineering Network",
+          "title":"Computer Operator",
+          "years":"October 2017 - Present",
+          "description":"Provided technical assistance for the classrooms and laboratories across U-M's Engineering Campus:",
+          "actions":[
+            {
+              "desc":"Mastered system features of proprietary software and hardware on the job through independent research and testing"
+            },
+            {
+              "desc":"Improved collaboration through applied oral and written communication skills in both team and independent environments"
+            },
+            {
+              "desc":"Facilitated the education of new employees through live demonstrations & tutorials as well as curating Wiki manual pages"
+            },
+            {
+              "desc":"Maximized classroom time spent learning through troubleshooting AV systems throughout laboratories and classrooms"
+            },
+            {
+              "desc":"Fostered large-scale time management skills working 20 hours/week while maintaining afull-time student schedule"
+            }
+          ]
+        },
+        {
+          "company":"Michigan Medicine",
+          "title":"Research Assistant",
+          "years":"September 2016 - May 2017",
+          "description":"Conducted structural investigations of protein complex MLL1 and its mutations linked to Leukemia:",
+          "actions":[
+            {
+              "desc":"Produced technical write-ups, wrote weekly reports analyzing past & current work as well as the status of current projects"
+            },
+            {
+              "desc":"Learned and applied comtemporary research techniques on the job, and curated technical tutorials for future employees"
+            },
+            {
+              "desc":"Cultivated habits of critical thinking in evaluating complex ideas within iterative testing environments"
+            },
+            {
+              "desc":"Permitted the examination of data in mass and subsequent multivariable data analysis by performing tests on protein samples"
+            }
+          ]
+        }
+      ],
+      "skills":[
+        {
+          "name":"C",
+          "level":"70%"
+        },
+        {
+          "name":"C++",
+          "level":"90%"
+        },
+        {
+          "name":"Python",
+          "level":"75%"
+        },
+        {
+          "name":"ReactJS",
+          "level":"50%"
+        },
+        {
+          "name":"Git",
+          "level":"70%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "name":"Wikipedia Search Engine",
+          "description":"A scalable search engine that is similar to a commercial search engine, utilizing information retrieval concepts like PageRank and tf-idf, parallel data processing with MapReduce, and an end-to-end search engine.",
+          "image":"search-engine.png",
+          "url":"https://github.com/kraell/"
+        },
+        {
+          "name":"Operating System Memory Manager",
+          "description":"A fully-functioning pager, abstracting DRAM memory into protected address spaces, suited for multiprocess and multithreaded environments.",
+          "image":"pager.png",
+          "url":"https://github.com/kraell/"
+        },
+        {
+          "name":"SillyQL",
+          "description":"An emulation of a relational database with an interface based on a subset of a standard query language, S(illy)QL.",
+          "image":"sillyql.png",
+          "url":"https://github.com/kraell/"
+        },
+        {
+          "name":"Personal Website",
+          "description":"This website right here — a React based resume website.",
+          "image":"website.png",
+          "url":"https://github.com/kraell/kraell.github.io"
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"That Keegan Elliott must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy. He may be fresh out of University, but those fundamentals and project experience are off the charts — I am confident that he will be one of your best developers in no time!",
+          "user":"Abraham Lincoln, probably"
+        }
+      ]
+    }
+  }
