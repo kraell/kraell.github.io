@@ -2,16 +2,16 @@
     "main": {
       "name":"Keegan Elliott",
       "occupation":"Software Engineer",
-      "description":"I'm currently graduating from the University of Michigan with a B.S. in Computer Science and a B.S. in Biopsychology, looking for a full-time gig in back end software development",
+      "description":"I'm currently graduating from the University of Michigan with a B.S. in Computer Science as well as Biopsychology, looking for a full-time gig in back end software development",
       "image":"profilepic.jpg",
-      "bio":"With a continuing passion for the arts and life sciences, computer science was a welcome addition in my formal education as the perfect blend between creativity and logical systems. Throughout university I have had development experience across the full stack, but after working on projects focusing on data structure design, algorithm analysis, and operating systems, I’ve found that I really enjoy project design and back end development.",
+      "bio":"With a continuing passion for the arts and life sciences, computer science was a welcome addition in my formal education as the perfect blend between creativity and logical systems. Throughout university I have had development experience across the full stack, but after working on projects focusing on data structure design, algorithm analysis, and operating systems, I’ve found that I really enjoy project design and back end development and system design.",
       "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-      "email": "kraell@umich.edu",
+      "email": "keeganraelliott@gmail.com",
       "phone": "269.223.9722",
       "address":{
         "street":"[Street]",
-        "city":"Ann Arbor",
-        "state":"Michigan",
+        "city":"New York",
+        "state":"New York",
         "country":"U.S.",
         "zip": "[ZIP Code]"
       },
